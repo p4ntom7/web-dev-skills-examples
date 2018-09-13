@@ -1,0 +1,93 @@
+/* Style Sheet for Web Development Skills Page*/
+
+/*Page Styles */
+
+html{
+    background-image: url("abstract.jpg");
+    background-size: cover;
+   
+
+
+
+
+}
+
+div{
+    width: 600px;
+    border-radius: 25px;
+    margin: 50px auto;
+    padding: 10px 75px;
+    background-color: aliceblue
+}
+
+.html{
+    border: 2px solid orangered;
+    box-shadow: 2px 2px orangered;
+
+}
+
+.css{
+    border: 2px solid blue;
+    box-shadow: 2px 2px  blue;
+}
+
+.js{
+    border: 2px solid rgb(233, 233, 232);
+    box-shadow: 2px 2px  yellowgreen;
+}
+
+
+
+/* Text Styles */
+h1,h2,h3{
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(47, 46, 85)
+
+}
+
+h1 {
+    color: rgb(240, 240, 240);
+    text-align: center;
+    font-size: 45px;
+}
+
+
+
+
+
+
+p,ul{
+    font-family:'Quicksand', sans-serif;
+    letter-spacing: 0.5px
+    
+
+}
+
+
+/* tutorial Notes*/
+.tutorial{
+    font-size: 12px;
+}
+
+
+
+/* Link Styles */
+
+a{
+    color: rgb(0, 0, 255);
+   text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+/*image styles */
+img {
+    width: 30px;
+    height: 30px;
+    vertical-align: middle
+}
+
+
+
+
